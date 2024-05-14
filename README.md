@@ -8,7 +8,8 @@ Webpage: The current version includes a single webpage resembling the layout and
 Customizable Links: The webpage is designed to support multiple links, allowing for easy navigation to different sections or products.
 Flexible Styling: Various CSS styles have been applied to mimic the look and feel of Amazon's website, with room for further customization and enhancement.
 
-amazon.png
+![amazon](https://github.com/Soumita-2018/Amazon-Clone/assets/100480877/2e859697-5c2d-4b29-9130-ac604c51d4a3)
+
 
 # Usage
 To view the webpage, simply open the index.html file in any web browser. From there, you can navigate through the different sections and explore the layout.
